@@ -14,7 +14,7 @@ CKnave = Symbol("C is a Knave")
 knowledge0 = And(
     # TODO
 )
-
+  
 # Puzzle 1
 # A says "We are both knaves."
 # B says nothing.
